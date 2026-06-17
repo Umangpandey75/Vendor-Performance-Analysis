@@ -3,6 +3,7 @@
 
 _Analyzing vendor efficiency and profitability to support strategic purchasing and inventory decisions using SQL, Python, and Power BI._
 
+[🌐 Access Live Power BI Dashboard](https://app.fabric.microsoft.com/links/21QJTPeHbe?ctid=8869cc11-7d78-4a5c-8378-b78ce12cb498&pbi_source=linkShare).
 ---
 
 ## 📌 Table of Contents
@@ -120,7 +121,8 @@ vendor-performance-analysis/
   - Bulk Purchase Savings
   - Performance Heatmaps
 
-![Vendor Performance Dashboard](images/dashboard.png)
+<img width="1282" height="767" alt="image" src="https://github.com/user-attachments/assets/33b5a58b-4f3d-49e1-90a1-fac129d42d07" />
+
 
 ---
 <h2><a class="anchor" id="how-to-run-this-project"></a>How to Run This Project</h2>
@@ -155,8 +157,10 @@ python scripts/get_vendor_summary.py
 ---
 <h2><a class="anchor" id="author--contact"></a>Author & Contact</h2>
 
-**Ayushi Mishra**  
-Data Analyst  
-📧 Email: techclasses0810@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/ayushi-mishra-30813b174/)  
-🔗 [Portfolio](https://www.youtube.com/@techclasses0810/)
+## 👤 Author & Analyst
+
+**Umang Pandey**
+* **GitHub:** [Umangpandey75](https://github.com/Umangpandey75)
+* **LinkedIn:** [Umang Pandey](https://www.linkedin.com/in/umang-pandey-01b486273/)
+* **Email:** umangpandey.co@gmail.com
+
